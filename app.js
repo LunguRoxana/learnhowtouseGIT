@@ -3,7 +3,7 @@
 <title>App</title>
 </head>
 <body>
-This is my App!
+This is my newApp!
 </body>
 
 </html>
